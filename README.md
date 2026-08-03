@@ -2,7 +2,8 @@
 
 A complete tutorial for downloading, processing, and visualizing global precipitation data from the CHIRPS dataset using Python, with cloud-optimized GeoTIFF conversion and multi-year comparative analysis.
 
-![CHIRPS 2024](./images/chirps_2024_map.png)
+![chirps_difference_maps_equalearth](./images/chirps_difference_maps_equalearth.png)
+
 
 ## 📚 Overview
 
