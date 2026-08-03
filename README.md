@@ -17,7 +17,7 @@ This project demonstrates:
 
 ## 🌍 What You'll Learn
 
-1. **Setting up a geospatial Python environment** with `uv` package manager
+1. **Setting up a geospatial Python environment** with `uv` package manager [Watch](https://youtu.be/AMdG7IjgSPM?si=0431HLt0mpN1v8Wq)
 2. **Downloading and validating** satellite precipitation data
 3. **Converting to Cloud-Optimized GeoTIFF format** for cloud storage
 4. **Processing large raster datasets** efficiently
